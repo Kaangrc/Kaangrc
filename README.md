@@ -2,7 +2,7 @@
 
 **Kaangrc/Kaangrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:[ReadMe-2.md](https://github.com/user-attachments/files/16549898/ReadMe-2.md)# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Flutter , Django<br>
 
 ## 🌐 Socials:
