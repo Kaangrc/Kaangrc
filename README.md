@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**Kaangrc/Kaangrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 , I'm Kaan
 
 # 💫 About Me:
 🔭 I’m currently working on Flutter , Django<br>
