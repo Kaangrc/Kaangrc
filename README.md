@@ -1,6 +1,6 @@
 <!-- PROFİL ÜST BANNER -->
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">Flutter developer passionate about AI-powered healthcare solutions</h3>
+<h3 align="center">Flutter developer passionate about AI-powered solutions</h3>
 
 ---
 
