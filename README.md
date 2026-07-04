@@ -10,13 +10,14 @@ Customizing and designing robust end-to-end digital products, scalable cross-pla
 ## 📱 Shipped Production Apps (Closed Source / NDA)
 *The source codes for these projects are proprietary, but they are live in production, serving active users, and available on the stores.*
 
-### 🩺 **[PatientMesh](https://patientmesh.com)**
+### 🩺 **[PatientMesh](https://patientmesh.com)** 🔗 [App Store](https://apps.apple.com/tr/app/patientmesh/id6762303444?l=tr) | [Google Play](https://play.google.com/store/apps/details?id=com.patientmesh.app&pcampaignid=web_share)
 * **Role:** Project Manager & Technical Lead
+* **Ownership:** Solely responsible for the entire cross-platform mobile development lifecycle, architectural decisions, state management, and deployment processes from scratch.
 * **System Overview:** A high-scale medical data and clinical form management platform designed for doctors and orthopedic decision-support pipelines.
-* **Engineering Impact:** Solely managing the entire cross-platform mobile development lifecycle[cite: 1]. Established rigid data binding layers, role-based workflows, and decoupled presentation bounds to safely process sensitive clinical assets.
+* **Engineering Impact:** Established rigid data binding layers, role-based workflows, and decoupled presentation bounds to safely process sensitive clinical assets with zero downtime.
 
-### 🧾 **Thiki — Warranty & Invoice Tracking** `App Store` & `Google Play`
-* **Role:** Co-Founder & Lead Mobile Architect
+### 🧾 **Thiki — Warranty & Invoice Tracking** 🔗 [App Store](https://apps.apple.com/tr/app/thiki/id6758831569?l=tr) | [Google Play](https://play.google.com/store/apps/details?id=com.thiki.invoice.thiki&pcampaignid=web_share)
+* **Role:** Lead Mobile Architect (Co-developed and shipped in a 2-person mobile team)
 * **System Overview:** A localized production consumer app driving document intelligence, subscription models, and workspace collaboration across **28 locales**.
 * **Architecture & State:** Implemented a feature-sliced, service-oriented architecture driven by a **Riverpod 3** reactive state layer, **GoRouter**, and **Hive** local caching. Features a cache-first offline read path with a 10-minute staleness TTL alongside online-required mutation barriers utilizing multi-state connectivity probing.
 * **Security & Auth:** Deployed multi-provider auth (Google OIDC, Email, Anonymous guest sessions) with a custom guest-merge flow, alongside full **Apple Sign-In** implementations optimized via custom redirect pipelines on Android.
@@ -27,17 +28,17 @@ Customizing and designing robust end-to-end digital products, scalable cross-pla
 ## 💻 SaaS & Freelance Web Projects
 
 ### 🚗 **[CarViox — Cloud ERP for Automotive](https://carviox.com)**
-* **Role:** Sole Architect & Full-Stack Engineer[cite: 1]
+* **Role:** Sole Architect & Full-Stack Engineer
 * **System Overview:** A multi-tenant, serverless SPA designed to digitize automotive maintenance cards, shop-floor service operations, and rental fleets for small-to-medium businesses.
 * **Architecture Highlights:** Developed with **React 19**, **TypeScript**, and **Vite**, backed entirely by **Firebase** (Auth, Cloud Firestore, Hosting, and App Check bot protection).
 * **Data Isolation:** Designed a strict multi-tenant schema isolation using `ownerId` bindings across Firestore documents, hardened via explicit database security rules enforcing deny-by-default logic and strict soft-delete constraints (`allow delete: if false`).
-* **Document Pipeline:** Engineered a programmatic programmatic client-side PDF template system responding to specific brand configurations, routed through a native Web Share API and WhatsApp deep-link communication pipeline.
+* **Document Pipeline:** Engineered a programmatic client-side PDF template system responding to specific brand configurations, routed through a native Web Share API and WhatsApp deep-link communication pipeline.
 
 ### 🌐 **Commercial Web Projects**
 High-performance, responsive corporate web spaces delivered as a freelance developer:
-* 🚢 **[Sunmarine](https://sunmrn.com)** – Modern frontend architecture with smooth, performant responsive layouts[cite: 1].
-* 🌿 **[Aroniaceae](https://www.aroniaceae.com)** – E-commerce rendering pipeline and modern product staging showcase[cite: 1].
-* 🏛️ **[SK Mimarlık](https://xn--skmimarlk-2pb.com)** – Minimalist, SEO-optimized digital portfolio built for high-end architectural visibility[cite: 1].
+* 🚢 **[Sunmarine](https://sunmrn.com)** – Modern frontend architecture with smooth, performant responsive layouts.
+* 🌿 **[Aroniaceae](https://www.aroniaceae.com)** – E-commerce rendering pipeline and modern product staging showcase.
+* 🏛️ **[SK Mimarlık](https://xn--skmimarlk-2pb.com)** – Minimalist, SEO-optimized digital portfolio built for high-end architectural visibility.
 
 ---
 
