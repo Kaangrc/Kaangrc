@@ -1,59 +1,56 @@
-<!-- PROFİL ÜST BANNER -->
-<h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">Flutter developer passionate about AI-powered solutions</h3>
+# Hi there, I'm Yusuf Kaan Gürcüoğlu 👋
+### **Computer Engineer | Mobile & System Architecture Specialist**
+
+Customizing and designing robust end-to-end digital products, scalable cross-platform mobile architectures, and secure multi-tenant web systems. I focus on structural integrity, reactive data flows, and clean code boundaries rather than just building interfaces.
+
+⚙️ **Core Philosophy:** Real-world production engineering is about handling constraints, edge cases, data isolation, and failures gracefully.
 
 ---
 
-## 💫 Hakkımda
+## 📱 Shipped Production Apps (Closed Source / NDA)
+*The source codes for these projects are proprietary, but they are live in production, serving active users, and available on the stores.*
 
-🚀 Bilgisayar mühendisiyim. Yapay zeka destekli mobil uygulamaları geliştiriyorum.  
-🧠 Özellikle Flutter ile mobil,Firebase ile backend geliştiriyor; REST API, Firebase ve veritabanı sistemleriyle projeler üretiyorum.  
-🛠️ Doktor karar destek sistemleri ve ortopedi alanına odaklı AI çözümleri geliştiriyorum.  
-🌱 Şu anda TensorFlow, YOLOv8 ve tıbbi görüntü işleme konularında kendimi geliştiriyorum.  
-💬 Flutter, Django REST, Firebase, PostgreSQL, Docker konularında sorular sorabilirsiniz.  
-📫 Bana ulaş: `kaangurcuogluu@gmail.com`
+### 🩺 **[PatientMesh](https://patientmesh.com)**
+* **Role:** Project Manager & Technical Lead
+* **System Overview:** A high-scale medical data and clinical form management platform designed for doctors and orthopedic decision-support pipelines.
+* **Engineering Impact:** Solely managing the entire cross-platform mobile development lifecycle[cite: 1]. Established rigid data binding layers, role-based workflows, and decoupled presentation bounds to safely process sensitive clinical assets.
 
----
-
-## 🌐 Sosyal Medya
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaangurcuoglu)  
-[LinkedIn](https://www.linkedin.com/in/kaangurcuoglu/)
-
----
-
-## 💻 Teknoloji Yığını
-
-### 🔷 Mobil & Web
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧠 Backend & API
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🧩 Diğer Araçlar
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🎨 Tasarım
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+### 🧾 **Thiki — Warranty & Invoice Tracking** `App Store` & `Google Play`
+* **Role:** Co-Founder & Lead Mobile Architect
+* **System Overview:** A localized production consumer app driving document intelligence, subscription models, and workspace collaboration across **28 locales**.
+* **Architecture & State:** Implemented a feature-sliced, service-oriented architecture driven by a **Riverpod 3** reactive state layer, **GoRouter**, and **Hive** local caching. Features a cache-first offline read path with a 10-minute staleness TTL alongside online-required mutation barriers utilizing multi-state connectivity probing.
+* **Security & Auth:** Deployed multi-provider auth (Google OIDC, Email, Anonymous guest sessions) with a custom guest-merge flow, alongside full **Apple Sign-In** implementations optimized via custom redirect pipelines on Android.
+* **Monetization & Infrastructure:** Programmed a dual-tier monetization engine synced across client-side **RevenueCat** entitlements and database-level **PostgreSQL triggers**. The document pipeline integrates on-device **ML Kit Text Recognition** with an external Supabase AI Gateway edge function for dynamic LLM model routing and regex fallbacks.
 
 ---
 
-## 📂 Öne Çıkan Projeler
+## 💻 SaaS & Freelance Web Projects
 
-- 🧠 [Ortopedi AI](https://github.com/Kaangrc/ortopedi-ai): Flutter + Django ile geliştirilen rol bazlı, MR segmentasyon destekli doktor destek sistemi.
+### 🚗 **[CarViox — Cloud ERP for Automotive](https://carviox.com)**
+* **Role:** Sole Architect & Full-Stack Engineer[cite: 1]
+* **System Overview:** A multi-tenant, serverless SPA designed to digitize automotive maintenance cards, shop-floor service operations, and rental fleets for small-to-medium businesses.
+* **Architecture Highlights:** Developed with **React 19**, **TypeScript**, and **Vite**, backed entirely by **Firebase** (Auth, Cloud Firestore, Hosting, and App Check bot protection).
+* **Data Isolation:** Designed a strict multi-tenant schema isolation using `ownerId` bindings across Firestore documents, hardened via explicit database security rules enforcing deny-by-default logic and strict soft-delete constraints (`allow delete: if false`).
+* **Document Pipeline:** Engineered a programmatic programmatic client-side PDF template system responding to specific brand configurations, routed through a native Web Share API and WhatsApp deep-link communication pipeline.
 
+### 🌐 **Commercial Web Projects**
+High-performance, responsive corporate web spaces delivered as a freelance developer:
+* 🚢 **[Sunmarine](https://sunmrn.com)** – Modern frontend architecture with smooth, performant responsive layouts[cite: 1].
+* 🌿 **[Aroniaceae](https://www.aroniaceae.com)** – E-commerce rendering pipeline and modern product staging showcase[cite: 1].
+* 🏛️ **[SK Mimarlık](https://xn--skmimarlk-2pb.com)** – Minimalist, SEO-optimized digital portfolio built for high-end architectural visibility[cite: 1].
 
+---
 
+## 🛠 Tech Stack & Engineering Tools
 
+* **Languages:** Dart (Advanced), JavaScript, TypeScript, Python, SQL.
+* **Frameworks & UI:** Flutter (iOS, Android, Web), React 19, Tailwind CSS 4, Django REST.
+* **State & Architecture:** Clean Architecture, BLoC / Cubit, Riverpod 3, Provider, Vertical Slices, MVVM.
+* **Backend & Security:** Node.js, Cloud Firestore, Supabase, Firebase Auth, App Check, PostgreSQL RLS.
+* **DevOps & Workflow:** Git & GitHub, Docker, CI/CD Pipelines, Postman, Jira.
 
+---
 
+## 📬 Let's Connect
+* 💼 **LinkedIn:** [linkedin.com/in/kaangurcuoglu](https://www.linkedin.com/in/kaangurcuoglu/)
+* 📧 **Email:** kaangurcuogluu@gmail.com
