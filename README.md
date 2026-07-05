@@ -44,7 +44,7 @@ High-performance, responsive corporate web spaces delivered as a freelance devel
 
 ## 🛠 Tech Stack & Engineering Tools
 
-* **Languages:** Dart (Advanced), JavaScript, TypeScript, Python, SQL.
+* **Languages:** Dart , JavaScript, TypeScript, Python, SQL.
 * **Frameworks & UI:** Flutter (iOS, Android, Web), React 19, Tailwind CSS 4, Django REST.
 * **State & Architecture:** Clean Architecture, BLoC / Cubit, Riverpod 3, Provider, Vertical Slices, MVVM.
 * **Backend & Security:** Node.js, Cloud Firestore, Supabase, Firebase Auth, App Check, PostgreSQL RLS.
