@@ -37,6 +37,7 @@ Customizing and designing robust end-to-end digital products, scalable cross-pla
 ### 🌐 **Commercial Web Projects**
 High-performance, responsive corporate web spaces delivered as a freelance developer:
 * 🚢 **[Sunmarine](https://sunmrn.com)** – Modern frontend architecture with smooth, performant responsive layouts.
+*  **[SunmarineGayrimenkul](https://sunmarinegayrimenkul.com)** – Modern frontend architecture with smooth, performant responsive layouts.
 * 🌿 **[Aroniaceae](https://www.aroniaceae.com)** – E-commerce rendering pipeline and modern product staging showcase.
 * 🏛️ **[SK Mimarlık](https://xn--skmimarlk-2pb.com)** – Minimalist, SEO-optimized digital portfolio built for high-end architectural visibility.
 
